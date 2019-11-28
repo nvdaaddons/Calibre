@@ -12,7 +12,7 @@
 * NVDA+Control+H – Otvori kontekstualni izbornik za postavke trenutačnog stupca
 * I – U prikazu knjižnice čita podatke o knjizi.
  
-Tipkovni prečaci se mogu prilagoditi u NVDA izborniku Postavke→Ulazne geste, kad je calibre otvoren. U postavkama je moguće odrediti i način na koji NVDA čita zaglavlja tablica u biblioteci (zaglavlja redaka i stupaca, samo stupaca ili nikoja).
+Tipkovni prečaci se mogu prilagoditi u NVDA izborniku Postavke>Ulazne geste, kad je calibre otvoren. U postavkama je moguće odrediti i način na koji NVDA čita zaglavlja tablica u biblioteci (zaglavlja redaka i stupaca, samo stupaca ili nikoja).
  
  Pregledaj [Calibre dokumentaciju][3] za tipkovničke prečace.
  
