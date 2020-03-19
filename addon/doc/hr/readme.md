@@ -9,7 +9,7 @@
 * F10 – Fokusira na alatnu traku. Tada je moguće kretanje pomoću standardnih tipki (tabulatora i strelica); enter za aktiviranje stavke i kontekstna tipka za prikaz kontekstnog izbornika; escape za izlaz iz alatne trake.
 * F12 – Pretraži trenutačnu knjigu na Googleu
 * NVDA+Alt+End – Izgovara ukupni broj knjiga u trenutačnom prikazu knjižnice i broj odabranih knjiga
-* NVDA+Control+H – Otvori kontekstualni izbornik za postavke trenutačnog stupca
+* NVDA+Kontrol+H – Otvori kontekstualni izbornik za postavke trenutačnog stupca
 * I – U prikazu knjižnice čita podatke o knjizi.
  
 Tipkovni prečaci se mogu prilagoditi u NVDA izborniku Postavke>Ulazne geste, kad je calibre otvoren. U postavkama je moguće odrediti i način na koji NVDA čita zaglavlja tablica u biblioteci (zaglavlja redaka i stupaca, samo stupaca ili nikoja).
