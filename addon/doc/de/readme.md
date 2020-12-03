@@ -4,7 +4,7 @@
 * [Stabile Version herunterladen][1]
 * [Entwicklerversion herunterladen][2]
   
-Eine NVDA-Erweiterung mit einigen Verbesserungen der Zugänglichkeit für die Schnittstelle der Buchverwaltung von Calibre.
+ Eine NVDA-Erweiterung mit einigen Verbesserungen der Zugänglichkeit für die Schnittstelle der Buchverwaltung von Calibre.
 
 F10 setzt den Fokus in die Werkzeugleiste. Dann können Sie mit Standardtasten (Tab und Pfeiltasten) navigieren; Enter zum Aktivieren von Element- und Schlüsselanwendungen, um das Kontextmenü anzuzeigen; Escape zum Verlassen der Symbolleiste.
 F12 sucht nach dem aktuellen Buch in Google
@@ -14,10 +14,11 @@ NVDA+Strg+H öffnet das Kontextmenü für die Einstellungen der aktuellen Spalte
  
 Die Tastenkombinationen können in den Einstellungen von NVDA in den Eingaben von Calibre angepasst werden. Außerdem können Sie in den Einstellungen festlegen, wie NVDA die Tabellenüberschriften in der Bibliothek liest (Zeilen und Spalten, Nur Spalten oder Keine).
  
-Werfen Sie einen Blick in die [Calibre-Dokumentation][3], um weitere Tastaturkürzel zu erfahren.
+ Werfen Sie einen Blick in die [Calibre-Dokumentation][3], um weitere Tastaturkürzel zu erfahren.
  
   
-Unterliegt der GNU General Public License. Siehe die [Datei COPYING.txt][4] für weitere Details.
+ Unterliegt der GNU General Public License. Siehe die [Datei COPYING.txt][4] für weitere Details.
+.
     
 [[!tag dev stable]]
 
