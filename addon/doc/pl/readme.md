@@ -4,7 +4,7 @@
 * Pobierz [wersja stabilna][1]
 * Pobierz [wersja rozwojowa][2]
   
-Dodatek dla NVDA, który ulepsza dostępność Calibre zarządzacza książkami elektronicznymi
+ Dodatek NVDA z pewnymi ulepszeniami ułatwień dostępu dla interfejsu Calibre eBook Management
 
 * F10 przenosi fokus do paska narzędzi. Można nawigować po nim standardowo (za pomocą klawisza tab i strzałek); enter uaktywnia element, klawisz kontekstowy otwiera menu kontekstowe; a escape zamyka pasek narzędzi.
 * F12 wyszukuje bieżącą książkę w googlu

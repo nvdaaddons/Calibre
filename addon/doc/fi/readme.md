@@ -12,7 +12,7 @@ Lisäosa, joka parantaa Calibre-e-kirjanhallintasovelluksen käyttöliittymän s
 * NVDA+Ctrl+H: avaa nykyisen sarakkeen asetuspikavalikon
 * I: lukee kirjan tiedot kirjastonäkymässä.
  
-Näppäinkomentoja voidaan muuttaa NVDA:n Asetukset-ikkunan Syötekomennot-kategoriasta calibren ollessa avoimena. Asetuksista on myös mahdollista määrittää taulukon otsikoiden lukutapa (rivit ja sarakkeet, vain sarakkeet tai ei mitään).
+Näppäinkomentoja voidaan muuttaa NVDA:n Asetukset-valikon Näppäinkomennot-kohdasta calibren ollessa avoimena. Asetuksista on myös mahdollista määrittää taulukon otsikoiden lukutapa (rivit ja sarakkeet, vain sarakkeet tai ei mitään).
  
  Lisää pikanäppäimiä löytyy [Calibren ohjeesta.][3]
  
