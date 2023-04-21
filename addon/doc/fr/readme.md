@@ -21,11 +21,10 @@ Ces commandes au clavier peuvent être personnalisées à partir du dialogue Ges
     
 [[!tag dev stable]]
 
-[1]: https://addons.nvda-project.org/files/get.php?file=cae
+[1]: https://www.nvaccess.org/addonStore/legacy?file=cae
 
-[2]: https://addons.nvda-project.org/files/get.php?file=cae-dev
+[2]: https://www.nvaccess.org/addonStore/legacy?file=cae-dev
 
 [3]: https://manual.calibre-ebook.com/gui.html
 
 [4]: https://github.com/javidominguez/Calibre/blob/master/COPYING.txt
-
