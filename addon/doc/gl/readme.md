@@ -2,7 +2,7 @@
   
 * Autor: Javi Domínguez
 * Descargar [versión estable][1]
-* descargar [versión de desenvolvemento][2]
+* Descargar [versión de desenvolvemento][2]
   
  Un complemento de NVDA con algunhas melloras de accesibilidade para a interface do administrador de libros electrónicos Calibre
 
@@ -17,13 +17,13 @@ As teclas de atallo pódense persoalizar nas Preferencias do NVDA > Xestos de en
  Bótalle unha ollada á [documentación de Calibre][3] para coñecer máis atallos de teclado.
  
   
-Cuberto pola GNU General Public License. Le o arquivo [COPYING.txt][4] para máis detalles.  
+  Cuberto pola GNU General Public License. Le o arquivo [COPYING.txt][4] para máis detalles.  
     
 [[!tag dev stable]]
 
-[1]: https://www.nvaccess.org/addonStore/legacy?file=cae
+[1]: https://addons.nvda-project.org/files/get.php?file=cae
 
-[2]: https://www.nvaccess.org/addonStore/legacy?file=cae-dev
+[2]: https://addons.nvda-project.org/files/get.php?file=cae-dev
 
 [3]: https://manual.calibre-ebook.com/gui.html
 
